@@ -6,6 +6,7 @@ import { HighlightsSection } from "@/components/HighlightsSection"
 import { ServicesSection } from "@/components/ServicesSection"
 import { TestimonialSection } from "@/components/TestimonialSection"
 import { SiteFooter } from "@/components/SiteFooter"
+import { DemoBanner } from "@/components/DemoBanner"
 
 export default function Home() {
     return (
@@ -18,6 +19,7 @@ export default function Home() {
             <ServicesSection />
             <TestimonialSection />
             <SiteFooter />
+            <DemoBanner />
         </main>
     )
 }
