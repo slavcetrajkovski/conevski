@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "Law Office Conevski — Skopje",
+    "description": "Law Office Conevski provides expert legal representation in criminal, corporate, and civil law. Based in Skopje, North Macedonia, serving clients since 1996."
+  },
+  "nav": {
+    "home": "HOME",
+    "about": "ABOUT US",
+    "services": "SERVICES",
+    "contact": "CONTACT US",
+    "bookConsultation": "BOOK CONSULTATION"
+  },
+  "hero": {
+    "headline": "We Specialise\nIn All Aspects\nOf Law",
+    "cta": "BOOK CONSULTATION"
+  },
+  "values": {
+    "heading": "The virtue of justice consists in moderation as regulated by wisdom",
+    "corporate": {
+      "title": "Corporate Law",
+      "description": "From company formation and commercial contracts to mergers and regulatory compliance, we provide expert legal guidance for businesses operating in North Macedonia."
+    },
+    "criminal": {
+      "title": "Criminal Law",
+      "description": "We provide vigorous criminal defence representation, protecting your rights from initial investigation through trial with extensive experience in Macedonian criminal proceedings."
+    },
+    "civil": {
+      "title": "Civil Law",
+      "description": "We handle civil disputes including property matters, inheritance, contractual claims, and compensation cases with diligence and a commitment to achieving the best outcome."
+    }
+  },
+  "highlights": {
+    "years": {
+      "label": "Years of Practice",
+      "description": "Over 28 years of legal practice in North Macedonia, delivering expert representation across criminal, civil, and corporate matters."
+    },
+    "since": {
+      "label": "Serving Since",
+      "description": "Transparent, fair pricing with flexible arrangements. Law Office Conevski — trusted by clients in Skopje since 1996."
+    }
+  },
+  "guide": {
+    "heading": "If you are in\ntrouble, our lawyers\ncan guide you",
+    "description": "At Law Office Conevski, we bring decades of hands-on expertise to every case. Whether you face a criminal charge, a civil dispute, or a complex commercial matter, we provide clear legal guidance and steadfast advocacy from day one.",
+    "cta": "GET IN TOUCH"
+  },
+  "services": {
+    "heading": "Ready to Provide\nthe Best\nRepresentation\nfor You",
+    "description": "With nearly three decades of practice in North Macedonia, Law Office Conevski delivers expert legal services across a broad spectrum of cases.",
+    "cta": "BOOK CONSULTATION",
+    "expert": {
+      "title": "Expert Representation",
+      "description": "We bring deep knowledge of Macedonian law and nearly three decades of courtroom experience to fight for the best possible outcome in your case."
+    },
+    "clarity": {
+      "title": "Case Clarity",
+      "description": "You have the right to fully understand every aspect of your legal situation. We explain your position clearly, honestly, and without jargon."
+    },
+    "support": {
+      "title": "Ongoing Support",
+      "description": "Our firm is committed to keeping you informed and supported at every stage of your legal proceedings."
+    }
+  },
+  "testimonials": {
+    "heading": "Hear What Our\nClients have\nto Say",
+    "marko": {
+      "quote": "Mr. Conevski represented me in a business dispute and achieved an outcome I didn't think was possible. His expertise in corporate law and his calm, methodical approach gave me full confidence throughout the process.",
+      "name": "Marko P.",
+      "title": "Business Owner, Skopje"
+    },
+    "elena": {
+      "quote": "Law Office Conevski guided me through an incredibly difficult personal matter with professionalism and genuine care. I was always kept informed and felt truly supported. I cannot recommend them highly enough.",
+      "name": "Elena V.",
+      "title": "Client, Skopje"
+    }
+  },
+  "footer": {
+    "description": "Law Office Conevski provides comprehensive legal services across North Macedonia. Founded in 1996 and based in Skopje, we are dedicated to protecting the rights and interests of every client.",
+    "practiceAreasHeading": "PRACTICE AREAS",
+    "companyHeading": "COMPANY",
+    "criminal": "Criminal Law",
+    "corporate": "Corporate Law",
+    "civil": "Civil Law",
+    "family": "Family Law",
+    "realEstate": "Real Estate",
+    "about": "About Us",
+    "ourServices": "Our Services",
+    "meetGoce": "Meet Goce Conevski",
+    "contact": "Contact",
+    "careers": "Careers",
+    "locationHeading": "SKOPJE, NORTH MACEDONIA",
+    "address1": "Vasil Glavinov 7-b-1/1",
+    "address2": "1000 Skopje, North Macedonia"
+  }
+}

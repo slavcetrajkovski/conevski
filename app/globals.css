@@ -1,0 +1,54 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+  --font-outfit: var(--font-outfit);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand-red: var(--brand-red);
+  --color-brand-yellow: var(--brand-yellow);
+  --color-brand-brown: var(--brand-brown);
+}
+
+:root {
+  --background: #f4efe6;
+  --foreground: #000000;
+  --brand-red: #bb5442;
+  --brand-yellow: #eece8b;
+  --brand-brown: #36221c;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground font-sans overflow-x-hidden;
+  }
+}
+
+.blob-button {
+  border-radius: 53% 47% 41% 59% / 54% 48% 52% 46%;
+}
+
+.blob-shape-1 {
+  border-radius: 64% 36% 41% 59% / 50% 64% 36% 50%;
+}
+
+.blob-shape-2 {
+  border-radius: 41% 59% 31% 69% / 60% 41% 59% 40%;
+}
+
+.blob-clip {
+  clip-path: path('M 60 10 C 120 -10, 190 30, 200 90 C 210 150, 160 210, 100 220 C 40 230, -10 170, 0 110 C 10 50, 20 20, 60 10 Z');
+}
+
+.watermark-text {
+  font-size: 20vw;
+  font-weight: 800;
+  color: rgba(54, 34, 28, 0.1);
+  user-select: none;
+  white-space: nowrap;
+  position: absolute;
+  z-index: 0;
+  pointer-events: none;
+}
